@@ -29,4 +29,4 @@ while (userInput !== correctAnswer) {
 }
 
 //The code below will only run when the game loop ends:
-alert("You win! Battleship sunk!")
+alert("You win! Battleship sunk!");
